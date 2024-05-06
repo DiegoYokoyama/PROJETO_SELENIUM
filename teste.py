@@ -23,3 +23,6 @@ botao.click()
 
 
 
+# driver.find_element("http://10.28.1.194/PROJETO_108-main/")
+
+# driver.find_elements_by_xpath("/html/body/main/div/div/div[1]/div[2]/p/a").click()
